@@ -8,3 +8,5 @@ function demoAdd(a, b, c) {
   return whole;
 }
 console.log(demoAdd(20, 40, 60));
+
+//this is a new line thats been edited! 
