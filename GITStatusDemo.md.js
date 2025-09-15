@@ -13,4 +13,4 @@ console.log(demoAdd(20, 40, 60));
 
 //This is a new line and sentance 
 
-//this is an edited new couple of lines 
+//this is an edited new couple of lines so we can look at merge conflicts  
